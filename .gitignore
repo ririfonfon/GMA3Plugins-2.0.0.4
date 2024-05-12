@@ -1,0 +1,7 @@
+# VS Code
+*.code-workspace
+
+# Console Cache
+libcache.dat
+
+# things I don't want to commit
